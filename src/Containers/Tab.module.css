@@ -1,0 +1,15 @@
+.Campaigns {
+display: flex;
+top:50em;
+
+}
+
+.childCampaigns{
+    padding: 2em 0em 0em 6em;
+    font-size: large;
+}
+
+.Heading{
+    margin-top:'20%';
+    padding-left:'2em'
+}
